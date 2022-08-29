@@ -1,47 +1,38 @@
 ---
 layout: page
-title: Thank You!
+title: Hello GritGGun!
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+~~~c
+// file: 'main.c'
+#include <stdio.h>
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
-
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
+int main()
+{
+    printf("Hello GritGGun!\n");
+    return 0;
+}
 ~~~
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+> 안녕하세요! 여러분은 Hello World!를 구현한다고 하였을 때, 가장 먼저 어떤 언어가 떠오르나요? 
+
+저는 가장 처음 접하고 배웠던, **C언어**가 떠오릅니다. 마치 아기 오리가 태어나자마자 처음 본 존재를 엄마라고 기억하듯 말입니다. 이 블로그는 서론과 같이 개발과 관련된 블로그 입니다. 특히, 제가 지금까지 개발해왔던 결과물들을 차곡차곡 정리하고, 앞으로도 이어가기 위한 방향성을 갖고 있습니다. 오랜만에 블로그 활동을 재개 합니다. 새로운 열린 공간에서 첫 글을 작성하는데, 살짝 두근두근하며 설레이네요. 이 마음이 오래가길 바라며, 시작합니다!
+
+
+## GritGGun!
+이 GritGGun이라는 명칭은 그릿과 꾼의 합성어로 제가 **그릿(Grit)**을 즐기고 잘하는 **꾼(GGun)**이 되고 싶어서 만들었습니다. 이제 곧 40살이 되는, 지금까지 살아오면서, 나에게 꼭 필요한 것은 무엇일까 고민했습니다. 많은 생각과 경험들로 비추어 보았을 때 저에게 필요한 것은 끈기, 열정, 투지라 생각합니다.  
+저는 아이어나, 기발한 생각들이 종종 발생하곤 합니다. 이러한 점은 감사하게 생각하지만, 이 아이디어들을 끝까지 붙들고 이 세상에 나타나게, 태어나게는 거의 하지 못하였습니다. 내 관심사에서 벗어나면 흥미를 잃게되는, 열정과 에너지를 잘 쏟지 않으려는 나의 습관적인 행동 때문인 것 같습니다. 이 점이 내가 부족한 부분이었고, 이제는 이 중요함을 너무나도 잘 알고 있습니다. 거북이와 같은 마음으로 느리더라도, 가고있다면, 그리고 유지가 된다면 언젠가는 바다로 갈수 있다는 끈기와 열정이 필요합니다.  
+- 그래서 향후 20년간은 이 그릿에 집중하고자 합니다.
+- 그리고, 이 그릿을 억지로 하는 것이 아닌 즐기고 싶습니다. 열정으로 불태우고 싶습니다. 이 그릿(Grit)을 즐기고 잘하는 꾼(GGun)이 되고 싶습니다.
+
+![Tuttle](/assets/img/blog/tuttle.gif)
+
+### 그릿(Grit) 의미
+- 성장(Growth), 회복력(Resilience), 내재적 동기(Intrinsic Motivation), 끈기(Tenacity)의 줄임말
+- 그릿(grit)은 투지, 끈기, 불굴의 의지를 모두 아우르는 개념
+- '열정과 집념이 있는 끈기'라는 의미로 사용되고 있음
+
+### 꾼(GGun) 의미
+- 어떤 일, 특히 즐기는 방면의 일에 능숙한 사람
+- 어떤 일에 재주가 뛰어나거나 이를 매우 즐기는 사람
