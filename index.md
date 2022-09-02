@@ -28,7 +28,7 @@ int main()
 - 그래서 향후 10년간은 이 그릿에 집중하고자 합니다.
 - 그리고, 이 그릿을 억지로 하는 것이 아닌 즐기고 싶습니다. 열정으로 불태우고 싶습니다. 이 그릿(Grit)을 즐기고 잘하는 꾼(GGun)이 되고 싶습니다.
 
-![Tuttle](/assets/img/blog/tuttle.gif)
+![Tuttle](/assets/img/blog/tuttle.gif){:.lead width="800" height="600" loading="lazy"}
 
 ### 그릿(Grit) 의미
 - 성장(Growth), 회복력(Resilience), 내재적 동기(Intrinsic Motivation), 끈기(Tenacity)의 줄임말
