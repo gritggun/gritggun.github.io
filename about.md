@@ -69,7 +69,7 @@ Soongsil University, Doctor of Engineering, Department of Media
 
 ![InkaEntworks](https://pds.saramin.co.kr/company/logo/201905/23/prxn50_wa9b-2rxicy_logo.png){: width="200"}　　　![AppSealing](/assets/img/about/appsealing.png){: width="180"}
 
-2012.02 - 2015.02, 전임(Assistant Manager)
+2012.02 - 2015.02, 전임(Assistant Manager), 전문연구요원
 {:.faded}
 
 블라블라~ 블라블라~ 블라블라~ 블라블라~ 블라블라~ 블라블라~ 
@@ -95,7 +95,7 @@ Soongsil University, Doctor of Engineering, Department of Media
 
 ---
 
-![Mog](http://mog.kr/wp-content/uploads/2021/11/top_logo.png){: width="100"}
+![Mog](assets/img/about/mog.png){: width="100"}
 
 2008.03 - 2009.03, 인턴/사원(Staff), 산학연
 {:.faded}
@@ -108,3 +108,22 @@ Soongsil University, Doctor of Engineering, Department of Media
 - 3
 
 ---
+
+## Lecture Experiences
+---
+![Lecture](/assets/img/about/lecture.png){:.lead width="1000" height="543" loading="lazy"}
+숭실대학교 글로벌미래교육원, 멀티미디어 및 게임 학과 대상 연설
+{:.figcaption}
+
+| 학교명 | 학기 | 강의과목 | 강의인원 | 주시수 | 강의평가
+|-|-|-|-|-
+| 숭실대학교<br/>글로벌미래교육원 | 2019-2 | 모바일프로그래밍<br/>(안드로이드 앱) | 21명 | 4 | 93.00
+| 숭실대학교<br/>글로벌미래교육원 | 2019-1 | 자바프로그래밍 | 16명 | 4 | 90.00
+| 중앙대학교<br/>미래교육원 | 2018-2 | 인터페이스 디자인<br/>(UX/UI) | 26명 | 4 | 97.39
+| 중앙대학교<br/>미래교육원 | 2018-1 | 인터페이스 디자인<br/>(UX/UI) | 28명 | 4 | 92.28
+| 중앙대학교<br/>미래교육원 | 2017-2 | 컴퓨터특강<br/>(유니티 게임) | 36명 | 3 | 97.37
+| 중앙대학교<br/>미래교육원 | 2017-1 | 인터페이스 디자인<br/>(UX/UI) | 26명 | 4 | 100.00
+| 중앙대학교<br/>미래교육원 | 2016-2 | 모바일프로그래밍<br/>(하이브리드 앱) | 22명 | 4 | 90.08
+| 중앙대학교<br/>미래교육원 | 2016-2 | C언어I | 28명 | 4 | 97.52
+| 중앙대학교<br/>미래교육원 | 2016-1 | 멀티미디어실습<br/>(포토샵, 플래시) | 36명 | 5 | 96.89
+{:.stretch-table}
