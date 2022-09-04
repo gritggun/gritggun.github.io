@@ -7,10 +7,11 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  # ![dev_lang](https://user-images.githubusercontent.com/112194029/187715277-fa4c50b7-ca9d-4b11-a0cc-caad27b91d8a.png)
   about:             |
     그릿(Grit)을 즐기고 잘하는 꾼(GGun)이 되고 싶은 S/W 연구 개발자 입니다.  
     현재, 모바일 앱 보안, AI, 머신러닝, 컴퓨터 비전, 자동화 테스팅, UX/UI 등에 관심이 있습니다.  
-    ![dev_lang](https://user-images.githubusercontent.com/112194029/187715277-fa4c50b7-ca9d-4b11-a0cc-caad27b91d8a.png)
+    <sub>`C/C++` `C#` `Java` `Golang` `Nodejs` `Python` `Flutter` `Android` `MFC` `WPF` `Unity`</sub>
     
     Jungsoo Kim, Ph.D
 
